@@ -7,11 +7,11 @@
   "drive": {
     "type": "sparkmax_neo",
     "id": 8,
-    "canbus":  null
+    "canbus": null
   },
   "inverted": {
-    "drive": true,
-    "angle": true
+    "drive": false,
+    "angle": false
   },
   "angle": {
     "type": "sparkmax_neo",
